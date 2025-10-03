@@ -32,7 +32,7 @@ margin: 0 auto 1.5em auto;
 .site-header {
 width: 100%;
 padding-top: 18.48%;
-background-image: url("/img/header.png");
+background-image: url("img/header.png");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
